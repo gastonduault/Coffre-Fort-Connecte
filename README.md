@@ -1,9 +1,10 @@
-# Utilisation de :
--Arduino Uno<br/>
--Rasberry pi <br />
--gâche à électro-aimant <br />
--Digicode 3x4 <br />
--Accéléromètre groove 3 axis +-16g <br/>
--Capteur RFID 125hz<br />
--Badge<br/>
--Moteur Shield MFA RE385<br />
+# Pour ce projet j'ai utilisé les composants :
+- Arduino Uno
+- Rasberry pi B
+- gâche à électro-aimant
+- Digicode 3x4 
+- Accéléromètre groove 3 axis +-16g 
+- Capteur RFID 125hz
+- Badge RFID
+- Moteur Shield MFA RE385
+
